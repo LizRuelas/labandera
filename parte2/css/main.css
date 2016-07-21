@@ -1,0 +1,14 @@
+div {
+	height:100px;
+	width: 200px;
+}
+p {
+	padding-left: 10px;
+	padding-top: 10px;
+}
+.caja1 {
+	background: yellow;
+}
+.caja2 {
+	background: red;
+}
